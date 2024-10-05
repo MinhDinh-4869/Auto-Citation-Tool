@@ -1,5 +1,5 @@
-#Auto Citation Tool
-## How to use?
+##Auto Citation Tool
+# How to use?
 - Requirements: having Python 3.8 or later
 - Open the CMD and run: python -m venv [name of the virtual environment] (Optional)
 - Run setup.bat on the same CMD
