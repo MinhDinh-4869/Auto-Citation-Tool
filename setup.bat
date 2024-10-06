@@ -1,8 +1,7 @@
+@echo off
 pip install -r requirements.txt
 
-git clone https://github.com/thenaterhood/python-autocite.git
-
-xcopy "%cd%\__main__.py" "%cd%\python-autocite\src\python_autocite\"  /y 
+git clone https://github.com/MinhDinh-4869/python-autocite.git
 
 cd python-autocite
 python setup.py install
